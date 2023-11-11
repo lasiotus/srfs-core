@@ -16,4 +16,4 @@ crc = "3.0"
 log = "0.4.20"
 
 [dev-dependencies]
-rand = "*"
+rand = "0.8"
