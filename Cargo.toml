@@ -1,8 +1,9 @@
 [package]
 name = "srfs-core"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Simple Rust File System (Core)"
+repository = "https://github.com/lasiotus/srfs-core"
 keywords = ["filesystem", "no_std"]
 categories = ["filesystem", "no-std"]
 license = "MIT OR Apache-2.0"
